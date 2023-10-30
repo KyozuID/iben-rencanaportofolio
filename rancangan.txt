@@ -1,0 +1,4 @@
+Fitur web ini bersi :
+1. home
+2. about
+3. contact
